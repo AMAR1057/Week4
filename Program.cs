@@ -27,18 +27,18 @@ namespace test
         }
         static void Main(string[] args)
         {
-            string inp = Console.ReadLine();
+            string inp = Console.ReadLine(); //taking sentence input from user
             string[] inp_list;
-            inp_list = inp.Split(' ');
+            inp_list = inp.Split(' ');   //converting space separated user input as an array
 
             
-            List<int> pairs = new List<int>();
+            List<int> pairs = new List<int>();  //list of integer type to hold all colors of the socks
             foreach (string i in inp_list)
             {
-                pairs.Add(Convert.ToInt32(i));
+                pairs.Add(Convert.ToInt32(i)); //adding all colors of the socks in the pile
             }
-            int result = Matching_pairs(pairs);
-            Console.WriteLine("Matching Pair:{0}", result);
+            int result = Matching_pairs(pairs); //calling function to calculate total number of matching 
+            Console.WriteLine("Matching Pair:{0}", result); //displaying result of matching pairs
 
         }
 
