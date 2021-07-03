@@ -1,0 +1,16 @@
+C:\Users\Aline.Martinez\Documents\Projects\Week4\bin\Debug\net5.0\Week4.exe
+C:\Users\Aline.Martinez\Documents\Projects\Week4\bin\Debug\net5.0\Week4.deps.json
+C:\Users\Aline.Martinez\Documents\Projects\Week4\bin\Debug\net5.0\Week4.runtimeconfig.json
+C:\Users\Aline.Martinez\Documents\Projects\Week4\bin\Debug\net5.0\Week4.runtimeconfig.dev.json
+C:\Users\Aline.Martinez\Documents\Projects\Week4\bin\Debug\net5.0\Week4.dll
+C:\Users\Aline.Martinez\Documents\Projects\Week4\bin\Debug\net5.0\ref\Week4.dll
+C:\Users\Aline.Martinez\Documents\Projects\Week4\bin\Debug\net5.0\Week4.pdb
+C:\Users\Aline.Martinez\Documents\Projects\Week4\obj\Debug\net5.0\Week4.csproj.AssemblyReference.cache
+C:\Users\Aline.Martinez\Documents\Projects\Week4\obj\Debug\net5.0\Week4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aline.Martinez\Documents\Projects\Week4\obj\Debug\net5.0\Week4.AssemblyInfoInputs.cache
+C:\Users\Aline.Martinez\Documents\Projects\Week4\obj\Debug\net5.0\Week4.AssemblyInfo.cs
+C:\Users\Aline.Martinez\Documents\Projects\Week4\obj\Debug\net5.0\Week4.csproj.CoreCompileInputs.cache
+C:\Users\Aline.Martinez\Documents\Projects\Week4\obj\Debug\net5.0\Week4.dll
+C:\Users\Aline.Martinez\Documents\Projects\Week4\obj\Debug\net5.0\ref\Week4.dll
+C:\Users\Aline.Martinez\Documents\Projects\Week4\obj\Debug\net5.0\Week4.pdb
+C:\Users\Aline.Martinez\Documents\Projects\Week4\obj\Debug\net5.0\Week4.genruntimeconfig.cache
